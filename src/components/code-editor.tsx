@@ -55,7 +55,7 @@ const CodeEditor: React.FC<CodeEditorProps> = ({ initialValue, onChange }) => {
         onMount={onEditorMount}
         theme="vs-dark"
         language="javascript"
-        height={500}
+        height={"inherit"}
         options={{
           wordWrap: "on",
           minimap: { enabled: false },
