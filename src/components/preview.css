@@ -5,6 +5,11 @@
   background-color: white;
 }
 
+.preview-wrapper iframe {
+  height: 100%;
+  width: 100%;
+}
+
 .react-draggable-transparent-selection .preview-wrapper::after {
   content: "";
   position: absolute;
