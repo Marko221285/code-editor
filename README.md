@@ -1,8 +1,8 @@
-# code-editor
+# Code-Editor
 
-This is online code editor - a CLI to launch an interactive development environment for writing + documenting code.
+This is online interactive development environment for writing React code. 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
