@@ -1,6 +1,6 @@
 # Code-Editor
 
-This is online interactive development environment for writing React code. 
+This is online interactive development environment for writing React code. It anticipates 3rd party CommonJS/ES module system workflow, for both javascript and css files.
 
 ## Getting Started with Create React App
 
